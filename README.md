@@ -1,1 +1,1 @@
-# udacity-02
+# AI For Trading
